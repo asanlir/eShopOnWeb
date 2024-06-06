@@ -9,7 +9,7 @@ env:
   LOCATION: spaincentral
   TEMPLATE-FILE: infra/webapp.bicep
   SUBSCRIPTION-ID: a0a22db3-2894-4db5-a324-a93c4bd3f759
-  WEBAPP-NAME: eshoponweb-webapp-asanlir_practice
+  WEBAPP-NAME: eshoponweb-webapp-asanlirpractice
 
 
 jobs:
